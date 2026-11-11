@@ -1,0 +1,32 @@
+{
+  "sistema": "FrioVale - Monitoramento da cadeia do frio",
+  "data_geracao": "2026-11-11T18:50:33.211760",
+  "metricas": {
+    "defect_density": {
+      "kloc": 3.0,
+      "defects": 6,
+      "density_per_kloc": 2.0
+    },
+    "coverage": {
+      "covered_lines": 0,
+      "total_lines": 3000,
+      "percentage": 0.0,
+      "interpretation": "Abaixo de 70% - Atencao"
+    },
+    "rework_rate": {
+      "rework_hours": 20.0,
+      "total_hours": 100.0,
+      "rate_percent": 20.0
+    },
+    "productivity": {
+      "deliveries": 8,
+      "dev_hours": 80.0,
+      "productivity_per_hour": 0.1
+    },
+    "rework_cost": {
+      "rework_hours": 20.0,
+      "cost_per_hour": 40.0,
+      "total_cost": 800.0
+    }
+  }
+}
